@@ -49,8 +49,19 @@ namespace ScratchProject.Api.Services
             if (value == null) return;
             var jsonString = JsonConvert.SerializeObject(value);
             var jObject = JObject.Parse(jsonString);
+            var jsonPaths = ConvertJObjectsIntoJsonPaths(jObject);
+            foreach ( var path in jsonPaths )
+            {
+                Console.WriteLine(path);
+            }
             //var jsonPaths = new JsonPath
                 
+        }
+
+        private List<string> ConvertJObjectsIntoJsonPaths(JObject jObject)
+        {
+            var jsonPaths = new List<string>();
+            return jsonPaths;
         }
     }
 }
