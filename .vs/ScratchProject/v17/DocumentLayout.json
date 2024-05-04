@@ -1,0 +1,568 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Workstation\\ASP_NET\\ScratchProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93433BB4-015B-45D2-97D1-53904689A630}|ScratchProject.Api\\ScratchProject.Api.csproj|c:\\workstation\\asp_net\\scratchproject\\scratchproject.api\\services\\redisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93433BB4-015B-45D2-97D1-53904689A630}|ScratchProject.Api\\ScratchProject.Api.csproj|solutionrelative:scratchproject.api\\services\\redisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93433BB4-015B-45D2-97D1-53904689A630}|ScratchProject.Api\\ScratchProject.Api.csproj|c:\\workstation\\asp_net\\scratchproject\\scratchproject.api\\intefaces\\iredisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93433BB4-015B-45D2-97D1-53904689A630}|ScratchProject.Api\\ScratchProject.Api.csproj|solutionrelative:scratchproject.api\\intefaces\\iredisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93433BB4-015B-45D2-97D1-53904689A630}|ScratchProject.Api\\ScratchProject.Api.csproj|c:\\workstation\\asp_net\\scratchproject\\scratchproject.api\\controllers\\v1\\rediscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93433BB4-015B-45D2-97D1-53904689A630}|ScratchProject.Api\\ScratchProject.Api.csproj|solutionrelative:scratchproject.api\\controllers\\v1\\rediscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93433BB4-015B-45D2-97D1-53904689A630}|ScratchProject.Api\\ScratchProject.Api.csproj|c:\\workstation\\asp_net\\scratchproject\\scratchproject.api\\scratchproject.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{93433BB4-015B-45D2-97D1-53904689A630}|ScratchProject.Api\\ScratchProject.Api.csproj|solutionrelative:scratchproject.api\\scratchproject.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93433BB4-015B-45D2-97D1-53904689A630}|ScratchProject.Api\\ScratchProject.Api.csproj|c:\\workstation\\asp_net\\scratchproject\\scratchproject.api\\datatransferobjects\\carmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93433BB4-015B-45D2-97D1-53904689A630}|ScratchProject.Api\\ScratchProject.Api.csproj|solutionrelative:scratchproject.api\\datatransferobjects\\carmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93433BB4-015B-45D2-97D1-53904689A630}|ScratchProject.Api\\ScratchProject.Api.csproj|c:\\workstation\\asp_net\\scratchproject\\scratchproject.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{93433BB4-015B-45D2-97D1-53904689A630}|ScratchProject.Api\\ScratchProject.Api.csproj|solutionrelative:scratchproject.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93433BB4-015B-45D2-97D1-53904689A630}|ScratchProject.Api\\ScratchProject.Api.csproj|c:\\workstation\\asp_net\\scratchproject\\scratchproject.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{93433BB4-015B-45D2-97D1-53904689A630}|ScratchProject.Api\\ScratchProject.Api.csproj|solutionrelative:scratchproject.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93433BB4-015B-45D2-97D1-53904689A630}|ScratchProject.Api\\ScratchProject.Api.csproj|c:\\workstation\\asp_net\\scratchproject\\scratchproject.api\\webapplicationserviceconfigurationextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93433BB4-015B-45D2-97D1-53904689A630}|ScratchProject.Api\\ScratchProject.Api.csproj|solutionrelative:scratchproject.api\\webapplicationserviceconfigurationextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93433BB4-015B-45D2-97D1-53904689A630}|ScratchProject.Api\\ScratchProject.Api.csproj|c:\\workstation\\asp_net\\scratchproject\\scratchproject.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93433BB4-015B-45D2-97D1-53904689A630}|ScratchProject.Api\\ScratchProject.Api.csproj|solutionrelative:scratchproject.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93433BB4-015B-45D2-97D1-53904689A630}|ScratchProject.Api\\ScratchProject.Api.csproj|c:\\workstation\\asp_net\\scratchproject\\scratchproject.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{93433BB4-015B-45D2-97D1-53904689A630}|ScratchProject.Api\\ScratchProject.Api.csproj|solutionrelative:scratchproject.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93433BB4-015B-45D2-97D1-53904689A630}|ScratchProject.Api\\ScratchProject.Api.csproj|c:\\workstation\\asp_net\\scratchproject\\scratchproject.api\\services\\mongodbclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93433BB4-015B-45D2-97D1-53904689A630}|ScratchProject.Api\\ScratchProject.Api.csproj|solutionrelative:scratchproject.api\\services\\mongodbclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93433BB4-015B-45D2-97D1-53904689A630}|ScratchProject.Api\\ScratchProject.Api.csproj|c:\\workstation\\asp_net\\scratchproject\\scratchproject.api\\intefaces\\imongodbclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93433BB4-015B-45D2-97D1-53904689A630}|ScratchProject.Api\\ScratchProject.Api.csproj|solutionrelative:scratchproject.api\\intefaces\\imongodbclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93433BB4-015B-45D2-97D1-53904689A630}|ScratchProject.Api\\ScratchProject.Api.csproj|c:\\workstation\\asp_net\\scratchproject\\scratchproject.api\\controllers\\v1\\mongodbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93433BB4-015B-45D2-97D1-53904689A630}|ScratchProject.Api\\ScratchProject.Api.csproj|solutionrelative:scratchproject.api\\controllers\\v1\\mongodbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93433BB4-015B-45D2-97D1-53904689A630}|ScratchProject.Api\\ScratchProject.Api.csproj|c:\\workstation\\asp_net\\scratchproject\\scratchproject.api\\controllers\\v1\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93433BB4-015B-45D2-97D1-53904689A630}|ScratchProject.Api\\ScratchProject.Api.csproj|solutionrelative:scratchproject.api\\controllers\\v1\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93433BB4-015B-45D2-97D1-53904689A630}|ScratchProject.Api\\ScratchProject.Api.csproj|c:\\workstation\\asp_net\\scratchproject\\scratchproject.api\\datatransferobjects\\userauthenticationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93433BB4-015B-45D2-97D1-53904689A630}|ScratchProject.Api\\ScratchProject.Api.csproj|solutionrelative:scratchproject.api\\datatransferobjects\\userauthenticationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93433BB4-015B-45D2-97D1-53904689A630}|ScratchProject.Api\\ScratchProject.Api.csproj|c:\\workstation\\asp_net\\scratchproject\\scratchproject.api\\datatransferobjects\\usersignuprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93433BB4-015B-45D2-97D1-53904689A630}|ScratchProject.Api\\ScratchProject.Api.csproj|solutionrelative:scratchproject.api\\datatransferobjects\\usersignuprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93433BB4-015B-45D2-97D1-53904689A630}|ScratchProject.Api\\ScratchProject.Api.csproj|c:\\workstation\\asp_net\\scratchproject\\scratchproject.api\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93433BB4-015B-45D2-97D1-53904689A630}|ScratchProject.Api\\ScratchProject.Api.csproj|solutionrelative:scratchproject.api\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93433BB4-015B-45D2-97D1-53904689A630}|ScratchProject.Api\\ScratchProject.Api.csproj|c:\\workstation\\asp_net\\scratchproject\\scratchproject.api\\scratchproject.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{93433BB4-015B-45D2-97D1-53904689A630}|ScratchProject.Api\\ScratchProject.Api.csproj|solutionrelative:scratchproject.api\\scratchproject.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93433BB4-015B-45D2-97D1-53904689A630}|ScratchProject.Api\\ScratchProject.Api.csproj|c:\\workstation\\asp_net\\scratchproject\\scratchproject.api\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93433BB4-015B-45D2-97D1-53904689A630}|ScratchProject.Api\\ScratchProject.Api.csproj|solutionrelative:scratchproject.api\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93433BB4-015B-45D2-97D1-53904689A630}|ScratchProject.Api\\ScratchProject.Api.csproj|c:\\workstation\\asp_net\\scratchproject\\scratchproject.api\\controllers\\v1\\scratchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93433BB4-015B-45D2-97D1-53904689A630}|ScratchProject.Api\\ScratchProject.Api.csproj|solutionrelative:scratchproject.api\\controllers\\v1\\scratchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93433BB4-015B-45D2-97D1-53904689A630}|ScratchProject.Api\\ScratchProject.Api.csproj|c:\\workstation\\asp_net\\scratchproject\\scratchproject.api\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93433BB4-015B-45D2-97D1-53904689A630}|ScratchProject.Api\\ScratchProject.Api.csproj|solutionrelative:scratchproject.api\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93433BB4-015B-45D2-97D1-53904689A630}|ScratchProject.Api\\ScratchProject.Api.csproj|c:\\workstation\\asp_net\\scratchproject\\scratchproject.api\\datatransferobjects\\userauthenticationsuccessresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93433BB4-015B-45D2-97D1-53904689A630}|ScratchProject.Api\\ScratchProject.Api.csproj|solutionrelative:scratchproject.api\\datatransferobjects\\userauthenticationsuccessresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93433BB4-015B-45D2-97D1-53904689A630}|ScratchProject.Api\\ScratchProject.Api.csproj|c:\\workstation\\asp_net\\scratchproject\\scratchproject.api\\datatransferobjects\\tokenmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93433BB4-015B-45D2-97D1-53904689A630}|ScratchProject.Api\\ScratchProject.Api.csproj|solutionrelative:scratchproject.api\\datatransferobjects\\tokenmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93433BB4-015B-45D2-97D1-53904689A630}|ScratchProject.Api\\ScratchProject.Api.csproj|c:\\workstation\\asp_net\\scratchproject\\scratchproject.api\\controllers\\customcontrollerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93433BB4-015B-45D2-97D1-53904689A630}|ScratchProject.Api\\ScratchProject.Api.csproj|solutionrelative:scratchproject.api\\controllers\\customcontrollerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93433BB4-015B-45D2-97D1-53904689A630}|ScratchProject.Api\\ScratchProject.Api.csproj|c:\\workstation\\asp_net\\scratchproject\\scratchproject.api\\controllers\\v2\\scratchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93433BB4-015B-45D2-97D1-53904689A630}|ScratchProject.Api\\ScratchProject.Api.csproj|solutionrelative:scratchproject.api\\controllers\\v2\\scratchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93433BB4-015B-45D2-97D1-53904689A630}|ScratchProject.Api\\ScratchProject.Api.csproj|c:\\workstation\\asp_net\\scratchproject\\scratchproject.api\\intefaces\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93433BB4-015B-45D2-97D1-53904689A630}|ScratchProject.Api\\ScratchProject.Api.csproj|solutionrelative:scratchproject.api\\intefaces\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93433BB4-015B-45D2-97D1-53904689A630}|ScratchProject.Api\\ScratchProject.Api.csproj|c:\\workstation\\asp_net\\scratchproject\\scratchproject.api\\api.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{93433BB4-015B-45D2-97D1-53904689A630}|ScratchProject.Api\\ScratchProject.Api.csproj|solutionrelative:scratchproject.api\\api.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93433BB4-015B-45D2-97D1-53904689A630}|ScratchProject.Api\\ScratchProject.Api.csproj|c:\\workstation\\asp_net\\scratchproject\\scratchproject.api\\scratchproject.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{93433BB4-015B-45D2-97D1-53904689A630}|ScratchProject.Api\\ScratchProject.Api.csproj|solutionrelative:scratchproject.api\\scratchproject.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93433BB4-015B-45D2-97D1-53904689A630}|ScratchProject.Api\\ScratchProject.Api.csproj|c:\\workstation\\asp_net\\scratchproject\\scratchproject.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93433BB4-015B-45D2-97D1-53904689A630}|ScratchProject.Api\\ScratchProject.Api.csproj|solutionrelative:scratchproject.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93433BB4-015B-45D2-97D1-53904689A630}|ScratchProject.Api\\ScratchProject.Api.csproj|c:\\workstation\\asp_net\\scratchproject\\scratchproject.api\\migrations\\applicationdatabasecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93433BB4-015B-45D2-97D1-53904689A630}|ScratchProject.Api\\ScratchProject.Api.csproj|solutionrelative:scratchproject.api\\migrations\\applicationdatabasecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93433BB4-015B-45D2-97D1-53904689A630}|ScratchProject.Api\\ScratchProject.Api.csproj|c:\\workstation\\asp_net\\scratchproject\\scratchproject.api\\migrations\\20240407182050_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93433BB4-015B-45D2-97D1-53904689A630}|ScratchProject.Api\\ScratchProject.Api.csproj|solutionrelative:scratchproject.api\\migrations\\20240407182050_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93433BB4-015B-45D2-97D1-53904689A630}|ScratchProject.Api\\ScratchProject.Api.csproj|c:\\workstation\\asp_net\\scratchproject\\scratchproject.api\\databasecontext\\applicationdatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93433BB4-015B-45D2-97D1-53904689A630}|ScratchProject.Api\\ScratchProject.Api.csproj|solutionrelative:scratchproject.api\\databasecontext\\applicationdatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RedisService.cs",
+              "DocumentMoniker": "C:\\Workstation\\ASP_NET\\ScratchProject\\ScratchProject.Api\\Services\\RedisService.cs",
+              "RelativeDocumentMoniker": "ScratchProject.Api\\Services\\RedisService.cs",
+              "ToolTip": "C:\\Workstation\\ASP_NET\\ScratchProject\\ScratchProject.Api\\Services\\RedisService.cs",
+              "RelativeToolTip": "ScratchProject.Api\\Services\\RedisService.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAUwDMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T18:31:07.108Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MongoDBController.cs",
+              "DocumentMoniker": "C:\\Workstation\\ASP_NET\\ScratchProject\\ScratchProject.Api\\Controllers\\v1\\MongoDBController.cs",
+              "RelativeDocumentMoniker": "ScratchProject.Api\\Controllers\\v1\\MongoDBController.cs",
+              "ToolTip": "C:\\Workstation\\ASP_NET\\ScratchProject\\ScratchProject.Api\\Controllers\\v1\\MongoDBController.cs",
+              "RelativeToolTip": "ScratchProject.Api\\Controllers\\v1\\MongoDBController.cs",
+              "ViewState": "AQIAAAsAAADAo5mZmZkewA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T06:04:07.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRedisService.cs",
+              "DocumentMoniker": "C:\\Workstation\\ASP_NET\\ScratchProject\\ScratchProject.Api\\Intefaces\\IRedisService.cs",
+              "RelativeDocumentMoniker": "ScratchProject.Api\\Intefaces\\IRedisService.cs",
+              "ToolTip": "C:\\Workstation\\ASP_NET\\ScratchProject\\ScratchProject.Api\\Intefaces\\IRedisService.cs",
+              "RelativeToolTip": "ScratchProject.Api\\Intefaces\\IRedisService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T18:29:41.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Workstation\\ASP_NET\\ScratchProject\\ScratchProject.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ScratchProject.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Workstation\\ASP_NET\\ScratchProject\\ScratchProject.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ScratchProject.Api\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-07T10:48:45.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Workstation\\ASP_NET\\ScratchProject\\ScratchProject.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ScratchProject.Api\\appsettings.Development.json",
+              "ToolTip": "C:\\Workstation\\ASP_NET\\ScratchProject\\ScratchProject.Api\\appsettings.Development.json",
+              "RelativeToolTip": "ScratchProject.Api\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-07T18:13:37.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Workstation\\ASP_NET\\ScratchProject\\ScratchProject.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "ScratchProject.Api\\appsettings.json",
+              "ToolTip": "C:\\Workstation\\ASP_NET\\ScratchProject\\ScratchProject.Api\\appsettings.json",
+              "RelativeToolTip": "ScratchProject.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-07T18:13:39.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RedisController.cs",
+              "DocumentMoniker": "C:\\Workstation\\ASP_NET\\ScratchProject\\ScratchProject.Api\\Controllers\\v1\\RedisController.cs",
+              "RelativeDocumentMoniker": "ScratchProject.Api\\Controllers\\v1\\RedisController.cs",
+              "ToolTip": "C:\\Workstation\\ASP_NET\\ScratchProject\\ScratchProject.Api\\Controllers\\v1\\RedisController.cs",
+              "RelativeToolTip": "ScratchProject.Api\\Controllers\\v1\\RedisController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwB0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T18:38:16.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WebApplicationServiceConfigurationExtension.cs",
+              "DocumentMoniker": "C:\\Workstation\\ASP_NET\\ScratchProject\\ScratchProject.Api\\WebApplicationServiceConfigurationExtension.cs",
+              "RelativeDocumentMoniker": "ScratchProject.Api\\WebApplicationServiceConfigurationExtension.cs",
+              "ToolTip": "C:\\Workstation\\ASP_NET\\ScratchProject\\ScratchProject.Api\\WebApplicationServiceConfigurationExtension.cs",
+              "RelativeToolTip": "ScratchProject.Api\\WebApplicationServiceConfigurationExtension.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAEYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T18:34:43.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ScratchProject.Api.csproj",
+              "DocumentMoniker": "C:\\Workstation\\ASP_NET\\ScratchProject\\ScratchProject.Api\\ScratchProject.Api.csproj",
+              "RelativeDocumentMoniker": "ScratchProject.Api\\ScratchProject.Api.csproj",
+              "ToolTip": "C:\\Workstation\\ASP_NET\\ScratchProject\\ScratchProject.Api\\ScratchProject.Api.csproj",
+              "RelativeToolTip": "ScratchProject.Api\\ScratchProject.Api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-07T10:48:57.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CarModel.cs",
+              "DocumentMoniker": "C:\\Workstation\\ASP_NET\\ScratchProject\\ScratchProject.Api\\DataTransferObjects\\CarModel.cs",
+              "RelativeDocumentMoniker": "ScratchProject.Api\\DataTransferObjects\\CarModel.cs",
+              "ToolTip": "C:\\Workstation\\ASP_NET\\ScratchProject\\ScratchProject.Api\\DataTransferObjects\\CarModel.cs",
+              "RelativeToolTip": "ScratchProject.Api\\DataTransferObjects\\CarModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T09:54:04.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Workstation\\ASP_NET\\ScratchProject\\ScratchProject.Api\\Program.cs",
+              "RelativeDocumentMoniker": "ScratchProject.Api\\Program.cs",
+              "ToolTip": "C:\\Workstation\\ASP_NET\\ScratchProject\\ScratchProject.Api\\Program.cs",
+              "RelativeToolTip": "ScratchProject.Api\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAABUvRMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T10:47:42.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MongoDbClientService.cs",
+              "DocumentMoniker": "C:\\Workstation\\ASP_NET\\ScratchProject\\ScratchProject.Api\\Services\\MongoDbClientService.cs",
+              "RelativeDocumentMoniker": "ScratchProject.Api\\Services\\MongoDbClientService.cs",
+              "ToolTip": "C:\\Workstation\\ASP_NET\\ScratchProject\\ScratchProject.Api\\Services\\MongoDbClientService.cs",
+              "RelativeToolTip": "ScratchProject.Api\\Services\\MongoDbClientService.cs",
+              "ViewState": "AQIAAAkAAACAXWZmZmb0vwgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T05:42:53.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IMongoDbClientService.cs",
+              "DocumentMoniker": "C:\\Workstation\\ASP_NET\\ScratchProject\\ScratchProject.Api\\Intefaces\\IMongoDbClientService.cs",
+              "RelativeDocumentMoniker": "ScratchProject.Api\\Intefaces\\IMongoDbClientService.cs",
+              "ToolTip": "C:\\Workstation\\ASP_NET\\ScratchProject\\ScratchProject.Api\\Intefaces\\IMongoDbClientService.cs",
+              "RelativeToolTip": "ScratchProject.Api\\Intefaces\\IMongoDbClientService.cs",
+              "ViewState": "AQIAAAEAAACAzMzMzMwHwAIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T05:42:13.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Workstation\\ASP_NET\\ScratchProject\\ScratchProject.Api\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "ScratchProject.Api\\Models\\UserModel.cs",
+              "ToolTip": "C:\\Workstation\\ASP_NET\\ScratchProject\\ScratchProject.Api\\Models\\UserModel.cs",
+              "RelativeToolTip": "ScratchProject.Api\\Models\\UserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T12:11:11.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TokenModel.cs",
+              "DocumentMoniker": "C:\\Workstation\\ASP_NET\\ScratchProject\\ScratchProject.Api\\DataTransferObjects\\TokenModel.cs",
+              "RelativeDocumentMoniker": "ScratchProject.Api\\DataTransferObjects\\TokenModel.cs",
+              "ToolTip": "C:\\Workstation\\ASP_NET\\ScratchProject\\ScratchProject.Api\\DataTransferObjects\\TokenModel.cs",
+              "RelativeToolTip": "ScratchProject.Api\\DataTransferObjects\\TokenModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T18:01:48.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserAuthenticationRequest.cs",
+              "DocumentMoniker": "C:\\Workstation\\ASP_NET\\ScratchProject\\ScratchProject.Api\\DataTransferObjects\\UserAuthenticationRequest.cs",
+              "RelativeDocumentMoniker": "ScratchProject.Api\\DataTransferObjects\\UserAuthenticationRequest.cs",
+              "ToolTip": "C:\\Workstation\\ASP_NET\\ScratchProject\\ScratchProject.Api\\DataTransferObjects\\UserAuthenticationRequest.cs",
+              "RelativeToolTip": "ScratchProject.Api\\DataTransferObjects\\UserAuthenticationRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T18:08:28.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Workstation\\ASP_NET\\ScratchProject\\ScratchProject.Api\\Controllers\\v1\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "ScratchProject.Api\\Controllers\\v1\\AuthenticationController.cs",
+              "ToolTip": "C:\\Workstation\\ASP_NET\\ScratchProject\\ScratchProject.Api\\Controllers\\v1\\AuthenticationController.cs",
+              "RelativeToolTip": "ScratchProject.Api\\Controllers\\v1\\AuthenticationController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAIwCAAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T18:09:43.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserSignUpRequest.cs",
+              "DocumentMoniker": "C:\\Workstation\\ASP_NET\\ScratchProject\\ScratchProject.Api\\DataTransferObjects\\UserSignUpRequest.cs",
+              "RelativeDocumentMoniker": "ScratchProject.Api\\DataTransferObjects\\UserSignUpRequest.cs",
+              "ToolTip": "C:\\Workstation\\ASP_NET\\ScratchProject\\ScratchProject.Api\\DataTransferObjects\\UserSignUpRequest.cs",
+              "RelativeToolTip": "ScratchProject.Api\\DataTransferObjects\\UserSignUpRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T18:54:31.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ScratchProject.Api.http",
+              "DocumentMoniker": "C:\\Workstation\\ASP_NET\\ScratchProject\\ScratchProject.Api\\ScratchProject.Api.http",
+              "RelativeDocumentMoniker": "ScratchProject.Api\\ScratchProject.Api.http",
+              "ToolTip": "C:\\Workstation\\ASP_NET\\ScratchProject\\ScratchProject.Api\\ScratchProject.Api.http",
+              "RelativeToolTip": "ScratchProject.Api\\ScratchProject.Api.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-04-07T10:48:21.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ScratchController.cs",
+              "DocumentMoniker": "C:\\Workstation\\ASP_NET\\ScratchProject\\ScratchProject.Api\\Controllers\\v1\\ScratchController.cs",
+              "RelativeDocumentMoniker": "ScratchProject.Api\\Controllers\\v1\\ScratchController.cs",
+              "ToolTip": "C:\\Workstation\\ASP_NET\\ScratchProject\\ScratchProject.Api\\Controllers\\v1\\ScratchController.cs",
+              "RelativeToolTip": "ScratchProject.Api\\Controllers\\v1\\ScratchController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T16:24:18.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Workstation\\ASP_NET\\ScratchProject\\ScratchProject.Api\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "ScratchProject.Api\\Services\\JwtService.cs",
+              "ToolTip": "C:\\Workstation\\ASP_NET\\ScratchProject\\ScratchProject.Api\\Services\\JwtService.cs",
+              "RelativeToolTip": "ScratchProject.Api\\Services\\JwtService.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAiwEEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T18:17:55.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserAuthenticationSuccessResponse.cs",
+              "DocumentMoniker": "C:\\Workstation\\ASP_NET\\ScratchProject\\ScratchProject.Api\\DataTransferObjects\\UserAuthenticationSuccessResponse.cs",
+              "RelativeDocumentMoniker": "ScratchProject.Api\\DataTransferObjects\\UserAuthenticationSuccessResponse.cs",
+              "ToolTip": "C:\\Workstation\\ASP_NET\\ScratchProject\\ScratchProject.Api\\DataTransferObjects\\UserAuthenticationSuccessResponse.cs",
+              "RelativeToolTip": "ScratchProject.Api\\DataTransferObjects\\UserAuthenticationSuccessResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T18:07:00.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\Workstation\\ASP_NET\\ScratchProject\\ScratchProject.Api\\Models\\City.cs",
+              "RelativeDocumentMoniker": "ScratchProject.Api\\Models\\City.cs",
+              "ToolTip": "C:\\Workstation\\ASP_NET\\ScratchProject\\ScratchProject.Api\\Models\\City.cs",
+              "RelativeToolTip": "ScratchProject.Api\\Models\\City.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T17:31:23.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CustomControllerBase.cs",
+              "DocumentMoniker": "C:\\Workstation\\ASP_NET\\ScratchProject\\ScratchProject.Api\\Controllers\\CustomControllerBase.cs",
+              "RelativeDocumentMoniker": "ScratchProject.Api\\Controllers\\CustomControllerBase.cs",
+              "ToolTip": "C:\\Workstation\\ASP_NET\\ScratchProject\\ScratchProject.Api\\Controllers\\CustomControllerBase.cs",
+              "RelativeToolTip": "ScratchProject.Api\\Controllers\\CustomControllerBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T19:04:00.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ScratchController.cs",
+              "DocumentMoniker": "C:\\Workstation\\ASP_NET\\ScratchProject\\ScratchProject.Api\\Controllers\\v2\\ScratchController.cs",
+              "RelativeDocumentMoniker": "ScratchProject.Api\\Controllers\\v2\\ScratchController.cs",
+              "ToolTip": "C:\\Workstation\\ASP_NET\\ScratchProject\\ScratchProject.Api\\Controllers\\v2\\ScratchController.cs",
+              "RelativeToolTip": "ScratchProject.Api\\Controllers\\v2\\ScratchController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T20:01:13.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IJwtService.cs",
+              "DocumentMoniker": "C:\\Workstation\\ASP_NET\\ScratchProject\\ScratchProject.Api\\Intefaces\\IJwtService.cs",
+              "RelativeDocumentMoniker": "ScratchProject.Api\\Intefaces\\IJwtService.cs",
+              "ToolTip": "C:\\Workstation\\ASP_NET\\ScratchProject\\ScratchProject.Api\\Intefaces\\IJwtService.cs",
+              "RelativeToolTip": "ScratchProject.Api\\Intefaces\\IJwtService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T18:05:36.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ScratchProject.Api",
+              "DocumentMoniker": "C:\\Workstation\\ASP_NET\\ScratchProject\\ScratchProject.Api\\ScratchProject.Api.csproj",
+              "RelativeDocumentMoniker": "ScratchProject.Api\\ScratchProject.Api.csproj",
+              "ToolTip": "C:\\Workstation\\ASP_NET\\ScratchProject\\ScratchProject.Api\\ScratchProject.Api.csproj",
+              "RelativeToolTip": "ScratchProject.Api\\ScratchProject.Api.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-09T18:41:17.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ApplicationDatabaseContext.cs",
+              "DocumentMoniker": "C:\\Workstation\\ASP_NET\\ScratchProject\\ScratchProject.Api\\DatabaseContext\\ApplicationDatabaseContext.cs",
+              "RelativeDocumentMoniker": "ScratchProject.Api\\DatabaseContext\\ApplicationDatabaseContext.cs",
+              "ToolTip": "C:\\Workstation\\ASP_NET\\ScratchProject\\ScratchProject.Api\\DatabaseContext\\ApplicationDatabaseContext.cs",
+              "RelativeToolTip": "ScratchProject.Api\\DatabaseContext\\ApplicationDatabaseContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAACFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T17:28:44.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "api.xml",
+              "DocumentMoniker": "C:\\Workstation\\ASP_NET\\ScratchProject\\ScratchProject.Api\\api.xml",
+              "RelativeDocumentMoniker": "ScratchProject.Api\\api.xml",
+              "ToolTip": "C:\\Workstation\\ASP_NET\\ScratchProject\\ScratchProject.Api\\api.xml",
+              "RelativeToolTip": "ScratchProject.Api\\api.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-04-09T19:05:50.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Workstation\\ASP_NET\\ScratchProject\\ScratchProject.Api\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ScratchProject.Api\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Workstation\\ASP_NET\\ScratchProject\\ScratchProject.Api\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ScratchProject.Api\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T10:48:39.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ApplicationDatabaseContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Workstation\\ASP_NET\\ScratchProject\\ScratchProject.Api\\Migrations\\ApplicationDatabaseContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ScratchProject.Api\\Migrations\\ApplicationDatabaseContextModelSnapshot.cs",
+              "ToolTip": "C:\\Workstation\\ASP_NET\\ScratchProject\\ScratchProject.Api\\Migrations\\ApplicationDatabaseContextModelSnapshot.cs",
+              "RelativeToolTip": "ScratchProject.Api\\Migrations\\ApplicationDatabaseContextModelSnapshot.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T18:22:20.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20240407182050_initial.cs",
+              "DocumentMoniker": "C:\\Workstation\\ASP_NET\\ScratchProject\\ScratchProject.Api\\Migrations\\20240407182050_initial.cs",
+              "RelativeDocumentMoniker": "ScratchProject.Api\\Migrations\\20240407182050_initial.cs",
+              "ToolTip": "C:\\Workstation\\ASP_NET\\ScratchProject\\ScratchProject.Api\\Migrations\\20240407182050_initial.cs",
+              "RelativeToolTip": "ScratchProject.Api\\Migrations\\20240407182050_initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBZwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T18:20:50.234Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
